@@ -1,5 +1,5 @@
 # wsb-big-data-bk
-==================
-Hello World!
-==================
+
+Hello World! Jestem na branchu DEV
+
 Jestem Barbara.
